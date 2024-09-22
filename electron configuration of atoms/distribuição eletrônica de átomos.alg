@@ -2,7 +2,7 @@ algoritmo "Distribuicao eletrônica de atomos"
 // Função : distribuir os elétrons dos átomos
 // Autor :  pedro henrique clemente neres
 // Data : 22/09/2024
-// Seção de Declarações 
+// Seção de Declarações
 var
   numeroAtomico: inteiro
    elemento: caractere
